@@ -1,0 +1,10 @@
+
+m	java:S116	"QRename this field "_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿö‘ä8ß³¬ºÔ/
+r	java:S116
+"QRename this field "_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ò±¤ûÿÿÿÿ8ß³¬ºÔ/
+r
+java:S1206+"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ8ß³¬ºÔ/
+_
+java:S6201-"BReplace this instanceof check and cast with 'instanceof Product p'(íœ³ì8ï³¬ºÔ/
+0
+java:S1220""Move this file to a named package.
